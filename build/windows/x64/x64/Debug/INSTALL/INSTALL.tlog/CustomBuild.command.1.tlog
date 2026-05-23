@@ -1,0 +1,10 @@
+^C:\USERS\SANTI\DOCUMENTS\FLUTTERS\PAUSAS_ACTIVAS_APP\BUILD\WINDOWS\X64\CMAKEFILES\0F91313547FBA6B794F88C0AFE5412AF\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

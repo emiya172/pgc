@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\santi\Documents\flutters\pausas_activas_app\build\windows\x64\CMakeFiles\dec0b241b57b090008be2c9db60270c8\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\santi\Documents\flutters\pausas_activas_app\build\windows\x64\CMakeFiles\204a80dde83b6ea154daa06b0d418f68\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\santi\Documents\flutters\pausas_activas_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\santi\Documents\flutters\pausas_activas_app\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{54901BAB-0015-360D-8523-8D342AB509D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

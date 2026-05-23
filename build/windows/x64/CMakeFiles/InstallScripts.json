@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/santi/Documents/flutters/pausas_activas_app/build/windows/x64/cmake_install.cmake",
+		"C:/Users/santi/Documents/flutters/pausas_activas_app/build/windows/x64/flutter/cmake_install.cmake",
+		"C:/Users/santi/Documents/flutters/pausas_activas_app/build/windows/x64/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

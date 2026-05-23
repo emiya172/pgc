@@ -1,0 +1,10 @@
+^C:\USERS\SANTI\DOCUMENTS\FLUTTERS\PAUSAS_ACTIVAS_APP\BUILD\WINDOWS\X64\CMAKEFILES\0F91313547FBA6B794F88C0AFE5412AF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/santi/Documents/flutters/pausas_activas_app/windows -BC:/Users/santi/Documents/flutters/pausas_activas_app/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/santi/Documents/flutters/pausas_activas_app/build/windows/x64/pausas_activas_app.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
